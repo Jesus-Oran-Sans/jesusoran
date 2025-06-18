@@ -11439,6 +11439,7 @@ textarea.form-control {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
+  text-align: center;
   -webkit-box-align: center;
   -webkit-align-items: center;
       -ms-flex-align: center;
